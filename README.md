@@ -183,4 +183,4 @@ See [#2](https://github.com/reuixiy/hugo-theme-meme/issues/2).
 
 We are grateful to the following sponsors for their support:
 
-[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com?aff=QuirkyKoala717 "Powered by DartNode - Free VPS for Open Source")
