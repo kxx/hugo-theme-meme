@@ -178,3 +178,9 @@ See [#2](https://github.com/reuixiy/hugo-theme-meme/issues/2).
   \*: see https://gohugo.io/content-management/front-matter/
       and https://gohugo.io/templates/internal/#configure-disqus
 </details>
+
+## Sponsors
+
+We are grateful to the following sponsors for their support:
+
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
